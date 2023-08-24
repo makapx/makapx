@@ -1,6 +1,6 @@
 ### Hi there! I'm Martina 👋
 
-Working as frontend/web developer @ [CTMobi](https://github.com/CTMobi) since 2021. Computer science student @ University of Catania.
+Frontend/web developer. Computer science student @ University of Catania.
 
 #### Tech stack
 
