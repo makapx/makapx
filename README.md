@@ -8,8 +8,4 @@ Frontend developer. Computer science student @ University of Catania.
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-![makapx's GitHub stats](https://github-readme-stats.vercel.app/api?username=makapx&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makapx&layout=compact&theme=transparent)
-
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makapx&theme=github_dark)
